@@ -1,7 +1,7 @@
 # Site settings
 title:          Jai Notes
 description:    "my programming notes"
-url:            "https://notes.jaironlanda.com"
+url:            "https://notes.jaironlanda.com/"
 
 # Google Analytics
 google_analytics: #UA—XXXXXXXX-X
@@ -29,6 +29,7 @@ plugins:
   - jekyll-seo-tag
   # - jemoji #Uncomment this to allow emoji in your post
 
+theme:      tale
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
