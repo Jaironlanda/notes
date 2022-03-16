@@ -4,4 +4,4 @@ title: "VueJS UI framework"
 tags: quasar
 ---
 
-quasar framework for vuejs -> super Boring
+quasar UI framework for vuejs -> super Boring
