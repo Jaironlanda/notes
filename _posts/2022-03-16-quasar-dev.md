@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "VueJS "
+title: "VueJS UI framework"
 tags: quasar
 ---
 
-Boring framework fro vuejs. 
+Boring framework for vuejs. 
