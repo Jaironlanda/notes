@@ -15,5 +15,5 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/tools/bin
 ```
-4. Test setup. `echo $ANDROID_HOME`
+4. Test setup. `echo $ANDROID_HOME`. Output: `/Users/<user_name>/Library/Android/sdk`
 5. Done!
