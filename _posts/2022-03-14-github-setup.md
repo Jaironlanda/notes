@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setup Github"
-tags: github
+tags: git
 ---
 
 ### Start `ssh-agent`

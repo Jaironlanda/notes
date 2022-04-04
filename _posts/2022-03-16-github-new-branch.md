@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to create new Branch using git command"
-tags: quasar
+tags: git
 ---
 
 I always forget about this.
