@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Setup Android Studio SDK Environment (MacOS)"
+title: "Run PHP server without XAMPP"
 tags: php
 ---
 
