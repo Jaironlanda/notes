@@ -14,19 +14,19 @@ The export statement is used when creating JavaScript modules to export live bin
 
 File `myfunc.js`
 
-``
+```
 export default function (a, b) {
   return a + b
 }
-``
+```
 
 File `main.js`
-``
-import myNewFunc from './myfunc.js'
 
+```
+import myNewFunc from './myfunc.js'
 console.log(myNewFunc(1, 2));
 
 // output: 3
-``
+```
 
 More Info: https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export
